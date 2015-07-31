@@ -34,3 +34,6 @@ bower.json
 # Ignore pow environment settings
 .powenv
 /.idea
+
+# Ignore Spring files
+/spring/*.pid
